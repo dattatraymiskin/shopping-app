@@ -9,9 +9,9 @@ function Login() {
         <h1>Online Shopping cart</h1>
         </div>
         <div className="row">
-            <div className="col rowHight">
+            <div className="col btn1">
             <button class="btn btn-success">LoginIn</button>
-            </div>
+            </div>     
             <div className="col">
                 <button class="btn btn-primary">SignUp</button>
             
