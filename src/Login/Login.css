@@ -1,0 +1,22 @@
+.login {
+    display: grid;
+    background-color: rgb(43, 43, 43);
+    border: 1px solid rgb(160, 160, 160);
+    border-radius: 7px;
+    place-items: center;
+  }
+  .rowHight{
+    height: 500px;
+  }
+  /* .login > img {
+    height: 200px;
+  } */
+  
+  /* .login > a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 99px;
+    font-weight: 800;
+    background-color: #1db954;
+  } */
